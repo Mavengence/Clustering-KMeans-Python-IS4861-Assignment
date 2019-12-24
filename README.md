@@ -43,4 +43,4 @@ Also if you do make some changes, feel free to make a pull request and help make
 
 ## Acknowledgments
 
-The authors would like to thank [Prof. Dr. Florian Gallwitz](https://www.th-nuernberg.de/person/gallwitz-florian/) for a really good supervising of our group. Without him we wouldn't be able to have accomplished our success.
+I would like to thank [Dr. Liu Junming](https://www.cb.cityu.edu.hk/staff/junmiliu/) from the City University of Hongkong for a really good supervising of me and the entire class.
