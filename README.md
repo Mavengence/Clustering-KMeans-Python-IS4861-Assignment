@@ -1,9 +1,8 @@
 <div style="border-bottom:none;">
-  <div align="center"> 
-    <img style="border-bottom:none;" sizes="200px" src="https://upload.wikimedia.org/wikipedia/commons/2/25/TH-Nuernberg-Logo.jpeg">
-    <h2>Computer Science IT-Project</h2>
-    <h1>DeepLearning: Autonomous Remote Control Car</h1>
-  </div>
+<div align="center"> 
+<img style="border-bottom:none;" src="https://github.com/Mavengence/Kaggle-Seattle-Airbnb-Analysis/blob/dev/report/photo/0_cityu.png">
+<h1 style="border-bottom:none;">KMeans Clustering Python<h1>
+</div>
 </div>
 
 ## Abstract
